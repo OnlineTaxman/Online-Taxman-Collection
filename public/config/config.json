@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2cE09c7AD7C8D8266D5b7554bbe3700daFE2079f",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5752136294047c0971642bf01f8b00b98cc608a0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Online Taxman NFT",
+  "SYMBOL": "OTM",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/online-taxman-collection",
+  "SHOW_BACKGROUND": true
+}
